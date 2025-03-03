@@ -1,6 +1,6 @@
 ## À propos de moi 👨‍💻
 
-Je suis actuellement en plein développement d'un SAAS qui effectue du scrapping de données sur Instagram. En parallèle, je suis ouvert à des offres d'emploi pour créer des sites web pour des petites et moyennes entreprises.
+Je suis actuellement en plein développement d'un SAAS. En parallèle, je suis ouvert à des offres d'emploi pour créer des sites web pour des petites et moyennes entreprises.
 
 ## Services offerts 💼
 
