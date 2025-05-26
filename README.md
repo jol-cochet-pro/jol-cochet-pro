@@ -21,6 +21,7 @@ Je suis à l'aise avec plusieurs langages et technologies web, notamment :
   - 🟦 TypeScript
   - 🐍 Python
   - ☕ Kotlin
+  - 💻 C/C++
 
 - **Frameworks et outils :**
   - ⚛️ React
