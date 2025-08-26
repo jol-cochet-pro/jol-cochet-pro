@@ -15,12 +15,14 @@ Je suis à l'aise avec plusieurs langages et technologies web, notamment :
 - **Langages principaux :**
   - 🟦 TypeScript
   - 🐍 Python
+  - 📱 Dart
   - ☕ Kotlin
   - 💻 C/C++
 
 - **Frameworks et outils :**
   - ⚛️ React
   - 🌐 NestJS
+  - 📱 Flutter
   - 🐍 Flask
   - 📬 Docker
 
